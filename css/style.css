@@ -1,0 +1,4 @@
+/* Your custom styles */
+.fixed-sn .double-nav, .fixed-sn footer, .fixed-sn main {
+    padding-left: 0 !important;
+}
